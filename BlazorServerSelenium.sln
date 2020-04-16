@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30001.183
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerSelenium", "BlazorServerSelenium\BlazorServerSelenium.csproj", "{0653331A-5803-4862-B1D0-ACE3D395B2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerSelenium.Integration.Tests", "BlazorServerSelenium.Integration.Tests\BlazorServerSelenium.Integration.Tests.csproj", "{B8C4B579-EA89-41B3-B135-5FF8BF8D8EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0653331A-5803-4862-B1D0-ACE3D395B2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0653331A-5803-4862-B1D0-ACE3D395B2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0653331A-5803-4862-B1D0-ACE3D395B2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0653331A-5803-4862-B1D0-ACE3D395B2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C4B579-EA89-41B3-B135-5FF8BF8D8EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C4B579-EA89-41B3-B135-5FF8BF8D8EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C4B579-EA89-41B3-B135-5FF8BF8D8EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C4B579-EA89-41B3-B135-5FF8BF8D8EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D68E9B0-4BB9-4E02-8F7A-1029666A4703}
+	EndGlobalSection
+EndGlobal
